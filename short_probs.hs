@@ -1,0 +1,1 @@
+problem15 = div (product [21..40]) $ product [2..20]
